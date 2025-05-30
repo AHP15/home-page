@@ -1,4 +1,4 @@
-# Technical Assessment - Static Webpage
+# Static Webpage
 
 A simple static webpage built with Next.js, React, TypeScript, and CSS.
 
