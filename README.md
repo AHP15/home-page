@@ -23,8 +23,8 @@ A simple static webpage built with Next.js, React, TypeScript, and CSS.
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repo-url]
-   cd [project-folder-name]
+   git clone https://github.com/AHP15/home-page.git
+   cd home-page
    ```
 
 2. **Install dependencies**
